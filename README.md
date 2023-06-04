@@ -8,9 +8,11 @@ This project is a C++ based programming application for ATANIA CREATION. The app
 
 ### Application View Modes
 1. Admin View
+
 Admins will have access to enter, view, modify, search, and calculate the details of employees, buyers, designs, and orders. All of this data is password-encrypted for security purposes. The password-encryption ensures that all data is secure and cannot be accessed by unauthorized users. This helps to protect the company's data and the privacy of its employees, buyers, designs, and orders.
 
 2. Client View
+
 Buyers will only have access to view the types of work that are provided by the company. If they wish to place an order, they can contact the Admin. The Admin will be responsible for processing all orders and ensuring that they are completed in a timely and efficient manner.
 
 ## Flowchart of the Program
